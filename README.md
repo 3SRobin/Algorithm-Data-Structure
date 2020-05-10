@@ -40,6 +40,7 @@
 | 面试题45 | [把数组排成最小的数](./剑指offer/面试题45.%20把数组排成最小的数.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | 
 | 面试题46 | [把数字翻译成字符串](./剑指offer/面试题46.%20把数字翻译成字符串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) |
 | 面试题47 | [礼物的最大价值](./剑指offer/面试题47.%20礼物的最大价值.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) |
+| 面试题48 | [最长不含重复字符的子字符串](./剑指offer/面试题48.%20最长不含重复字符的子字符串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) |
    
 #### 程序员面试金典
 
