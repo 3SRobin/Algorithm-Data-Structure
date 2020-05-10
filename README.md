@@ -29,6 +29,7 @@
 | 面试题26 | [树的子结构](./剑指offer/面试题26.%20树的子结构.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | 
 | 面试题27 | [二叉树的镜像](./剑指offer/面试题27.%20二叉树的镜像.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) |
 | 面试题31 | [栈的压入、弹出序列](./剑指offer/面试题31.%20栈的压入、弹出序列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) |
+| 面试题32-I | [从上到下打印二叉树](./剑指offer/面试题32%20-%20I.%20从上到下打印二叉树.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) |
   
 #### 程序员面试金典
 
