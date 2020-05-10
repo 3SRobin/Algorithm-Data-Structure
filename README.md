@@ -45,7 +45,8 @@
 | 面试题51 | [数组中的逆序对](./剑指offer/面试题51.%20数组中的逆序对.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) |
 | 面试题53-II | [0～n-1中缺失的数字](./剑指offer/面试题53%20-%20II.%200～n-1中缺失的数字.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) |
 | 面试题54 | [二叉搜索树的第k大节点](./剑指offer/面试题54.%20二叉搜索树的第k大节点.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) |
-| 面试题55-I | [二叉树的深度](./剑指offer/面试题55%20-%20I.%20二叉树的深度.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/submissions/) |
+| 面试题55-I | [二叉树的深度](./剑指offer/面试题55%20-%20I.%20二叉树的深度.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) |
+| 面试题56-I | [数组中数字出现的次数](./剑指offer/面试题56%20-%20I.%20数组中数字出现的次数.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) |
  
 #### 程序员面试金典
 
