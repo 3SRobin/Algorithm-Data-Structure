@@ -47,7 +47,8 @@
 | 面试题54 | [二叉搜索树的第k大节点](./剑指offer/面试题54.%20二叉搜索树的第k大节点.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) |
 | 面试题55-I | [二叉树的深度](./剑指offer/面试题55%20-%20I.%20二叉树的深度.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) |
 | 面试题56-I | [数组中数字出现的次数](./剑指offer/面试题56%20-%20I.%20数组中数字出现的次数.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) |
-| 面试题56-II | [数组中数字出现的次数 II](./剑指offer/面试题56%20-%20II.%20数组中数字出现的次数%20II.cpp | 普通 | [Address](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) |
+| 面试题56-II | [数组中数字出现的次数 II](./剑指offer/面试题56%20-%20II.%20数组中数字出现的次数%20II.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) |
+| 面试题57-II | [和为s的连续正数序列](./剑指offer/面试题57%20-%20II.%20和为s的连续正数序列.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) |
  
 #### 程序员面试金典
 
