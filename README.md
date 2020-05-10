@@ -44,6 +44,7 @@
 | 面试题49 | [丑数](./剑指offer/面试题49.%20丑数.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/chou-shu-lcof/) |
 | 面试题51 | [数组中的逆序对](./剑指offer/面试题51.%20数组中的逆序对.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) |
 | 面试题53-II | [0～n-1中缺失的数字](./剑指offer/面试题53%20-%20II.%200～n-1中缺失的数字.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) |
+| 面试题54 | [二叉搜索树的第k大节点](./剑指offer/面试题54.%20二叉搜索树的第k大节点.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) |
  
 #### 程序员面试金典
 
