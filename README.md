@@ -24,7 +24,8 @@
 | 面试题14-I | [剪绳子](./剑指offer/面试题14-%20I.%20剪绳子.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | 
 | 面试题14-II | [剪绳子II](./剑指offer/面试题14-%20II.%20剪绳子%20II.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | 
 | 面试题15 | [二进制中1的个数](./剑指offer/面试题15.%20二进制中1的个数.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | 
-| 面试题16 | [数值的整数次方](./剑指offer/面试题16.%20数值的整数次方.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) |
+| 面试题16 | [数值的整数次方](./剑指offer/面试题16.%20数值的整数次方.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | 
+| 面试题22 | [链表中倒数第k个节点](./剑指offer/面试题22.%20链表中倒数第k个节点.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) |
 
 #### 程序员面试金典
 
