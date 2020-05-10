@@ -18,6 +18,7 @@
 |:-:| :-: | :--: |  :--:  |
 | 面试题03 | [数组中重复的数字](./剑指offer/面试题03.%20数组中重复的数字.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/submissions/) |  
 | 面试题04 | [二维数组中的查找](./剑指offer/面试题04.%20二维数组中的查找.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) |
+| 面试题07 | [重建二叉树](./剑指offer/面试题07.%20重建二叉树.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) |
 
 #### 程序员面试金典
 
