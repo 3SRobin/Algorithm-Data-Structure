@@ -22,4 +22,5 @@
 
 | # | 题目 | 难度 |
 |:-:| :-: | :--: |
-| 1 | [两数之和](./cyc200/哈希表/1两数之和.js) | 简单 |
+| 面试题 01.06. | [字符串压缩](./程序员面试金典/面试题%2001.06.%20字符串压缩.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/compress-string-lcci/submissions/) |  
+
