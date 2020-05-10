@@ -28,6 +28,7 @@
 | 面试题22 | [链表中倒数第k个节点](./剑指offer/面试题22.%20链表中倒数第k个节点.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) |
 | 面试题26 | [树的子结构](./剑指offer/面试题26.%20树的子结构.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | 
 | 面试题27 | [二叉树的镜像](./剑指offer/面试题27.%20二叉树的镜像.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) |
+| 面试题31 | [栈的压入、弹出序列](./剑指offer/面试题31.%20栈的压入、弹出序列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) |
   
 #### 程序员面试金典
 
