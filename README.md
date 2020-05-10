@@ -3,9 +3,7 @@
 
 >　记录我从 2019.07.10开始至今的代码、刷题记录
 
-#### 力扣
-
-[My LeetCode Address](https://leetcode-cn.com/u/3srobin/)
+#### 力扣  [My LeetCode Address](https://leetcode-cn.com/u/3srobin/)
 
 | # | 题目 | 难度 | 题目地址 |
 |:-:| :-: | :--: |  :--:  |
