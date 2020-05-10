@@ -34,6 +34,7 @@
 | 面试题33 | [二叉搜索树的后序遍历序列](./剑指offer/面试题33.%20二叉搜索树的后序遍历序列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) |  
 | 面试题34 | [二叉树中和为某一值的路径](./剑指offer/面试题34.%20二叉树中和为某一值的路径.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | 
 | 面试题35 | [复杂链表的复制](./剑指offer/面试题35.%20复杂链表的复制.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | 
+| 面试题38 | [字符串的排列](./剑指offer/面试题38.%20字符串的排列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) |
   
 #### 程序员面试金典
 
