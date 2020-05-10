@@ -38,6 +38,7 @@
 | 面试题43 | [1～n整数中1出现的次数](./剑指offer/面试题43.%201～n整数中1出现的次数.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) |  
 | 面试题44 | [数字序列中某一位的数字](./剑指offer/面试题44.%20数字序列中某一位的数字.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | 
 | 面试题45 | [把数组排成最小的数](./剑指offer/面试题45.%20把数组排成最小的数.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | 
+| 面试题46 | [把数字翻译成字符串](./剑指offer/面试题46.%20把数字翻译成字符串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) |
    
 #### 程序员面试金典
 
