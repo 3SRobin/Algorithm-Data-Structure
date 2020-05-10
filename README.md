@@ -14,13 +14,13 @@
 
 #### 剑指offer
 
-| # | 题目 | 难度 |
-|:-:| :-: | :--: |
+| # | 题目 | 难度 | 题目地址 |
+|:-:| :-: | :--: |  :--:  |
 | 面试题03 | [数组中重复的数字](./剑指offer/面试题03.%20数组中重复的数字.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/submissions/) |  
 
 #### 程序员面试金典
 
-| # | 题目 | 难度 |
-|:-:| :-: | :--: |
+| # | 题目 | 难度 | 题目地址 |
+|:-:| :-: | :--: |  :--:  |
 | 面试题 01.06. | [字符串压缩](./程序员面试金典/面试题%2001.06.%20字符串压缩.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/compress-string-lcci/submissions/) |  
 
