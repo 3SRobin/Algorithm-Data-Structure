@@ -42,6 +42,7 @@
 | 面试题47 | [礼物的最大价值](./剑指offer/面试题47.%20礼物的最大价值.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) |
 | 面试题48 | [最长不含重复字符的子字符串](./剑指offer/面试题48.%20最长不含重复字符的子字符串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) |
 | 面试题49 | [丑数](./剑指offer/面试题49.%20丑数.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/chou-shu-lcof/) |
+| 面试题51 | [数组中的逆序对](./剑指offer/面试题51.%20数组中的逆序对.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) |
    
 #### 程序员面试金典
 
