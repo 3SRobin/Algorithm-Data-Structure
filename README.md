@@ -22,14 +22,15 @@
 | 面试题12 | [矩阵中的路径](./剑指offer/面试题12.%20矩阵中的路径.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | 
 | 面试题13 | [机器人的运动范围](./剑指offer/面试题13.%20机器人的运动范围.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | 
 | 面试题14-I | [剪绳子](./剑指offer/面试题14-%20I.%20剪绳子.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | 
-| 面试题14-II | [剪绳子II](./剑指offer/面试题14-%20II.%20剪绳子%20II.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | 
+| 面试题14-II | [剪绳子 II](./剑指offer/面试题14-%20II.%20剪绳子%20II.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | 
 | 面试题15 | [二进制中1的个数](./剑指offer/面试题15.%20二进制中1的个数.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | 
 | 面试题16 | [数值的整数次方](./剑指offer/面试题16.%20数值的整数次方.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | 
 | 面试题22 | [链表中倒数第k个节点](./剑指offer/面试题22.%20链表中倒数第k个节点.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) |
 | 面试题26 | [树的子结构](./剑指offer/面试题26.%20树的子结构.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | 
 | 面试题27 | [二叉树的镜像](./剑指offer/面试题27.%20二叉树的镜像.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) |
 | 面试题31 | [栈的压入、弹出序列](./剑指offer/面试题31.%20栈的压入、弹出序列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) |
-| 面试题32-I | [从上到下打印二叉树](./剑指offer/面试题32%20-%20I.%20从上到下打印二叉树.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) |
+| 面试题32-I | [从上到下打印二叉树](./剑指offer/面试题32%20-%20I.%20从上到下打印二叉树.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) |  
+| 面试题32-III | [从上到下打印二叉树 III](./剑指offer/面试题32%20-%20III.%20从上到下打印二叉树%20III.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) |
   
 #### 程序员面试金典
 
