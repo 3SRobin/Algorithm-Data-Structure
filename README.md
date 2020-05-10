@@ -9,9 +9,8 @@
 
 | # | 题目 | 难度 | 题目地址 |
 |:-:| :-: | :--: |  :--:  |
-| 236 | [二叉树的最近公共祖先](./LeetCode/236.%20二叉树的最近公共祖先.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
-
-#### 剑指offer
+| 1 | [两数之和](./LeetCode/1.%20两数之和.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/two-sum/) |  
+| 236 | [二叉树的最近公共祖先](./LeetCode/236.%20二叉树的最近公共祖先.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) |   (./LeetCode/1.%20两数之和.cpp)
 
 | # | 题目 | 难度 |
 |:-:| :-: | :--: |
