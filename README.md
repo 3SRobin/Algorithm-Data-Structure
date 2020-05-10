@@ -33,6 +33,7 @@
 | 面试题32-III | [从上到下打印二叉树 III](./剑指offer/面试题32%20-%20III.%20从上到下打印二叉树%20III.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | 
 | 面试题33 | [二叉搜索树的后序遍历序列](./剑指offer/面试题33.%20二叉搜索树的后序遍历序列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) |  
 | 面试题34 | [二叉树中和为某一值的路径](./剑指offer/面试题34.%20二叉树中和为某一值的路径.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | 
+| 面试题35 | [复杂链表的复制](./剑指offer/面试题35.%20复杂链表的复制.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | 
   
 #### 程序员面试金典
 
