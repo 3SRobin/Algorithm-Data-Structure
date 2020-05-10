@@ -34,6 +34,7 @@
 | 面试题35 | [复杂链表的复制](./剑指offer/面试题35.%20复杂链表的复制.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | 
 | 面试题38 | [字符串的排列](./剑指offer/面试题38.%20字符串的排列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | 
 | 面试题40 | [最小的k个数](./剑指offer/面试题40.%20最小的k个数.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) |
+| 面试题42 | [连续子数组的最大和](./剑指offer/面试题42.%20连续子数组的最大和.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) |
   
 #### 程序员面试金典
 
