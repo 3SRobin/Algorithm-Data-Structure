@@ -54,6 +54,7 @@
 | 面试题62 | [圆圈中最后剩下的数字](./剑指offer/面试题62.%20圆圈中最后剩下的数字.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) |
 | 面试题63 | [股票的最大利润](./剑指offer/面试题63.%20股票的最大利润.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) |
 | 面试题64 | [求1+2+…+n](./剑指offer/面试题64.%20求1%2B2%2B…%2Bn.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/qiu-12n-lcof/) |
+| 面试题65 | [不用加减乘除做加法](./剑指offer/面试题65.%20不用加减乘除做加法.java) | 简单 | [Address](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) |
  
 #### 程序员面试金典
 
