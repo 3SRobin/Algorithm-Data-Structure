@@ -65,4 +65,5 @@
 |:-:| :-: | :--: |  :--:  |
 | 面试题 01.06. | [字符串压缩](./程序员面试金典/面试题%2001.06.%20字符串压缩.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/compress-string-lcci/) |  
 | 面试题 01.07. | [旋转矩阵](./程序员面试金典/面试题%2001.07.%20旋转矩阵.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/rotate-matrix-lcci/) | 
+| 面试题 02.08. | [环路检测](./程序员面试金典/面试题%2002.08.%20环路检测.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/linked-list-cycle-lcci/) | 
 
