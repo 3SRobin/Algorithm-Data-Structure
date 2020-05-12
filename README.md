@@ -71,4 +71,5 @@
 | 面试题 08.07. | [无重复字符串的排列组合](./程序员面试金典/面试题%2008.07.%20无重复字符串的排列组合.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/permutation-i-lcci/)| 
 | 面试题 08.11. | [硬币](./程序员面试金典/面试题%2008.11.%20硬币.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/coin-lcci/)| 
 | 面试题 10.01. | [合并排序的数组](./程序员面试金典/面试题%2010.01.%20合并排序的数组.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/sorted-merge-lcci/)| 
+| 面试题 17.16. | [按摩师](./程序员面试金典/面试题%2017.16.%20按摩师.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/the-masseuse-lcci/)| 
 
