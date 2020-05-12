@@ -69,4 +69,5 @@
 | 面试题 08.04. | [幂集](./程序员面试金典/面试题%2008.04.%20幂集.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/power-set-lcci/) | 
 | 面试题 08.06. | [汉诺塔问题](./程序员面试金典/面试题%2008.06.%20汉诺塔问题.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/hanota-lcci/)| 
 | 面试题 08.07. | [无重复字符串的排列组合](./程序员面试金典/面试题%2008.07.%20无重复字符串的排列组合.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/permutation-i-lcci/)| 
+| 面试题 08.11. | [硬币](./程序员面试金典/面试题%2008.11.%20硬币.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/coin-lcci/)| 
 
