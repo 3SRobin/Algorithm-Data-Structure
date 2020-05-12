@@ -53,6 +53,7 @@
 | 面试题59-II | [队列的最大值](./剑指offer/面试题59%20-%20II.%20队列的最大值.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) |
 | 面试题62 | [圆圈中最后剩下的数字](./剑指offer/面试题62.%20圆圈中最后剩下的数字.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) |
 | 面试题63 | [股票的最大利润](./剑指offer/面试题63.%20股票的最大利润.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) |
+| 面试题64 | [求1+2+…+n](./剑指offer/面试题64.%20求1%2B2%2B…%2Bn.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/qiu-12n-lcof/) |
  
 #### 程序员面试金典
 
