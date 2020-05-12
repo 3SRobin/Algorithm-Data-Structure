@@ -56,6 +56,7 @@
 | 面试题64 | [求1+2+…+n](./剑指offer/面试题64.%20求1%2B2%2B…%2Bn.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/qiu-12n-lcof/) |
 | 面试题65 | [不用加减乘除做加法](./剑指offer/面试题65.%20不用加减乘除做加法.java) | 简单 | [Address](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) |
 | 面试题67 | [把字符串转换成整数](./剑指offer/面试题67.%20把字符串转换成整数.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/) |
+| 面试题68 | [二叉搜索树的最近公共祖先](./剑指offer/面试题68%20-%20I.%20二叉搜索树的最近公共祖先.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) |
  
 #### 程序员面试金典
 
