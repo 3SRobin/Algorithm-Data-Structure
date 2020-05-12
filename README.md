@@ -63,9 +63,10 @@
 
 | # | 题目 | 难度 | 题目地址 |
 |:-:| :-: | :--: |  :--:  |
-| 面试题 01.06. | [字符串压缩](./程序员面试金典/面试题%2001.06.%20字符串压缩.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/compress-string-lcci/) |  
+| 面试题 01.06. | [字符串压缩](./程序员面试金典/面试题%2001.06.%20字符串压缩.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/compress-string-lcci/) |  
 | 面试题 01.07. | [旋转矩阵](./程序员面试金典/面试题%2001.07.%20旋转矩阵.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/rotate-matrix-lcci/) | 
 | 面试题 02.08. | [环路检测](./程序员面试金典/面试题%2002.08.%20环路检测.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/linked-list-cycle-lcci/) | 
 | 面试题 08.04. | [幂集](./程序员面试金典/面试题%2008.04.%20幂集.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/power-set-lcci/) | 
-| 面试题 08.06. | [汉诺塔问题](./程序员面试金典/面试题%2008.06.%20汉诺塔问题.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/hanota-lcci/| 
+| 面试题 08.06. | [汉诺塔问题](./程序员面试金典/面试题%2008.06.%20汉诺塔问题.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/hanota-lcci/)| 
+| 面试题 08.07. | [无重复字符串的排列组合](./程序员面试金典/面试题%2008.07.%20无重复字符串的排列组合.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/permutation-i-lcci/)| 
 
