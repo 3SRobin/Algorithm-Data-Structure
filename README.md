@@ -2,13 +2,17 @@
 [![Travis](https://img.shields.io/badge/language-C/C++-yellow.svg)]()
 
 >　记录我从 2019.07.10开始至今的代码、刷题记录
-
-#### 力扣  [My LeetCode Address](https://leetcode-cn.com/u/3srobin/)
+>  自己的题解，或许某些代码可能很挫，但保证都是AC代码,仅供参考 <QwQ>
+>  有意见邮箱联系：1013640699@qq.com
+>  [My LeetCode Address](https://leetcode-cn.com/u/3srobin/)
+ 
+#### 力扣  
 
 | # | 题目 | 难度 | 题目地址 |
 |:-:| :-: | :--: |  :--:  |
 | 1 | [两数之和](./LeetCode/1.%20两数之和.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/two-sum/) | 
 | 50 | [Pow(x,n)](./LeetCode/50.%20Pow(x%2C%20n).cpp) | 普通 | [Address](https://leetcode-cn.com/problems/powx-n/) |  
+| 155 | [最小栈](.LeetCode/155.%20最小栈.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/min-stack/) |
 | 236 | [二叉树的最近公共祖先](./LeetCode/236.%20二叉树的最近公共祖先.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) |  
 
 #### 剑指offer
