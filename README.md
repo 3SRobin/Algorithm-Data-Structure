@@ -29,7 +29,22 @@
 | 32 | [最长有效括号](./LeetCode/32.%20最长有效括号.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/longest-valid-parentheses/)|
 | 33 | [搜索旋转排序数组](./LeetCode/33.%20搜索旋转排序数组.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](./LeetCode/34.%20在排序数组中查找元素的第一个和最后一个位置.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|
+| 39 | [组合总和](./LeetCode/39.%20组合总和.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/combination-sum/)|
+| 42 | [接雨水](./LeetCode/42.%20接雨水.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/trapping-rain-water/)|
+| 46 | [全排列](./LeetCode/46.%20全排列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/permutations/)|
+| 48 | [旋转图像](./LeetCode/48.%20旋转图像.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/rotate-image/)|
+| 49 | [字母异位词分组](./LeetCode/49.%20字母异位词分组.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/group-anagrams/)|
 | 50 | [Pow(x,n)](./LeetCode/50.%20Pow(x%2C%20n).cpp) | 普通 | [Address](https://leetcode-cn.com/problems/powx-n/) |
+| 53 | [最大子序和](./LeetCode/53.%20最大子序和.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/maximum-subarray/)|
+| 55 | [跳跃游戏](./LeetCode/55.%20跳跃游戏.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/jump-game/)|
+| 56 | [合并区间](./LeetCode/56.%20合并区间.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/merge-intervals/)|
+| 62 | [不同路径](./LeetCode/62.%20不同路径.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/unique-paths/)|
+| 64 | [最小路径和](./LeetCode/64.%20最小路径和.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/minimum-path-sum/)|
+| 70 | [爬楼梯](./LeetCode/70.%20爬楼梯.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/climbing-stairs/)|
+| 72 | [编辑距离](./LeetCode/72.%20编辑距离.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/edit-distance/)|
+| 75 | [颜色分类](./LeetCode/75.%20颜色分类.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/sort-colors/)|
+| 78 | [子集](./LeetCode/78.%20子集.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/subsets/)|
+| 79 | [单词搜索](./LeetCode/79.%20单词搜索.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/word-search/)|
 | 102 | [二叉树的层序遍历](./LeetCode/102.%20二叉树的层序遍历.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |
 | 155 | [最小栈](./LeetCode/155.%20最小栈.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/min-stack/) |
 | 221 | [最大正方形](./LeetCode/221.%20最大正方形.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/maximal-square/) |
