@@ -18,6 +18,9 @@
 | 4 | [寻找两个正序数组的中位数](./LeetCode/4.%20寻找两个正序数组的中位数.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)| 
 | 5 | [最长回文子串](./LeetCode/5.%20最长回文子串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/longest-palindromic-substring/)| 
 | 11 | [盛最多水的容器](./LeetCode/11.%20盛最多水的容器.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/container-with-most-water/)| 
+| 15 | [三数之和](./LeetCode/15.%20三数之和.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/3sum/)| 
+| 17 | [电话号码的字母组合](./LeetCode/17.%20电话号码的字母组合.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)| 
+| 19 | [删除链表的倒数第N个节点](./LeetCode/19.%20删除链表的倒数第N个节点.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)| 
 | 50 | [Pow(x,n)](./LeetCode/50.%20Pow(x%2C%20n).cpp) | 普通 | [Address](https://leetcode-cn.com/problems/powx-n/) |
 | 102 | [二叉树的层序遍历](./LeetCode/102.%20二叉树的层序遍历.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |
 | 155 | [最小栈](./LeetCode/155.%20最小栈.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/min-stack/) |
