@@ -24,7 +24,11 @@
 | 20 | [有效的括号](./LeetCode/20.%20有效的括号.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/valid-parentheses/)| 
 | 21 | [合并两个有序链表](./LeetCode/21.%20合并两个有序链表.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| 
 | 22 | [括号生成](./LeetCode/22.%20括号生成.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/generate-parentheses/)| 
-| 23 | [合并K个排序链表](./LeetCode/23.%20合并K个排序链表.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/merge-k-sorted-lists/)| 
+| 23 | [合并K个排序链表](./LeetCode/23.%20合并K个排序链表.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|
+| 31 | [下一个排列](./LeetCode/31.%20下一个排列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/next-permutation/)|
+| 32 | [最长有效括号](./LeetCode/32.%20最长有效括号.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/longest-valid-parentheses/)|
+| 33 | [搜索旋转排序数组](./LeetCode/33.%20搜索旋转排序数组.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|
+| 34 | [在排序数组中查找元素的第一个和最后一个位置](./LeetCode/34.%20在排序数组中查找元素的第一个和最后一个位置.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|
 | 50 | [Pow(x,n)](./LeetCode/50.%20Pow(x%2C%20n).cpp) | 普通 | [Address](https://leetcode-cn.com/problems/powx-n/) |
 | 102 | [二叉树的层序遍历](./LeetCode/102.%20二叉树的层序遍历.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |
 | 155 | [最小栈](./LeetCode/155.%20最小栈.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/min-stack/) |
