@@ -14,7 +14,10 @@
 | # | 题目 | 难度 | 题目地址 |
 |:-:| :-: | :--: |  :--:  |
 | 1 | [两数之和](./LeetCode/1.%20两数之和.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/two-sum/) | 
+| 3 | [无重复字符的最长子串](./LeetCode/3.%20无重复字符的最长子串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| 
+| 4 | [寻找两个正序数组的中位数](./LeetCode/4.%20寻找两个正序数组的中位数.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)| 
 | 5 | [最长回文子串](./LeetCode/5.%20最长回文子串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/longest-palindromic-substring/)| 
+| 11 | [盛最多水的容器](./LeetCode/11.%20盛最多水的容器.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/container-with-most-water/)| 
 | 50 | [Pow(x,n)](./LeetCode/50.%20Pow(x%2C%20n).cpp) | 普通 | [Address](https://leetcode-cn.com/problems/powx-n/) |
 | 102 | [二叉树的层序遍历](./LeetCode/102.%20二叉树的层序遍历.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |
 | 155 | [最小栈](./LeetCode/155.%20最小栈.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/min-stack/) |
