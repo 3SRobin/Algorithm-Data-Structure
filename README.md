@@ -56,7 +56,16 @@
 | 128 | [最长连续序列](./LeetCode/128.%20最长连续序列.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/longest-consecutive-sequence/) |
 | 136 | [只出现一次的数字](./LeetCode/136.%20只出现一次的数字.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/single-number/) |
 | 139 | [单词拆分](./LeetCode/139.%20单词拆分.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/word-break/) |
+| 141 | [环形链表](./LeetCode/141.%20环形链表.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/linked-list-cycle/) |
+| 142 | [单词拆分 II](./LeetCode/142.%20环形链表%20II.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/linked-list-cycle-ii/) |
+| 146 | [LRU缓存机制](./LeetCode/146.%20LRU缓存机制.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/lru-cache/) |
+| 148 | [排序链表](./LeetCode/148.%20排序链表.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/sort-list/) |
+| 152 | [乘积最大子数组](./LeetCode/152.%20乘积最大子数组.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/maximum-product-subarray/) |
 | 155 | [最小栈](./LeetCode/155.%20最小栈.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/min-stack/) |
+| 160 | [相交链表](./LeetCode/160.%20相交链表.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|
+| 169 | [多数元素](./LeetCode/169.%20多数元素.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/majority-element/) |
+| 198 | [打家劫舍](./LeetCode/198.%20打家劫舍.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/house-robber/) |
+| 200 | [岛屿数量](./LeetCode/200.%20岛屿数量.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/number-of-islands/) |
 | 221 | [最大正方形](./LeetCode/221.%20最大正方形.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/maximal-square/) |
 | 236 | [二叉树的最近公共祖先](./LeetCode/236.%20二叉树的最近公共祖先.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) |  
 
