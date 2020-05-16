@@ -25,6 +25,7 @@
 | 21 | [合并两个有序链表](./LeetCode/21.%20合并两个有序链表.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| 
 | 22 | [括号生成](./LeetCode/22.%20括号生成.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/generate-parentheses/)| 
 | 23 | [合并K个排序链表](./LeetCode/23.%20合并K个排序链表.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|
+| 25 | [K个一组翻转链表](./LeetCode/25.%20K%20个一组翻转链表.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|
 | 31 | [下一个排列](./LeetCode/31.%20下一个排列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/next-permutation/)|
 | 32 | [最长有效括号](./LeetCode/32.%20最长有效括号.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/longest-valid-parentheses/)|
 | 33 | [搜索旋转排序数组](./LeetCode/33.%20搜索旋转排序数组.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|
@@ -66,8 +67,19 @@
 | 169 | [多数元素](./LeetCode/169.%20多数元素.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/majority-element/) |
 | 198 | [打家劫舍](./LeetCode/198.%20打家劫舍.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/house-robber/) |
 | 200 | [岛屿数量](./LeetCode/200.%20岛屿数量.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/number-of-islands/) |
+| 206 | [反转链表](./LeetCode/206.%20反转链表.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/reverse-linked-list/) |
+| 208 | [实现 Trie (前缀树)](./LeetCode/208.%20实现%20Trie%20(前缀树).cpp) | 普通 | [Address](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) |
+| 215 | [数组中的第K个最大元素](./LeetCode/215.%20数组中的第K个最大元素.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) |
 | 221 | [最大正方形](./LeetCode/221.%20最大正方形.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/maximal-square/) |
+| 226 | [翻转二叉树](./LeetCode/226.%20翻转二叉树.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/invert-binary-tree/) |
+| 234 | [回文链表](./LeetCode/234.%20回文链表.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/palindrome-linked-list/) |
 | 236 | [二叉树的最近公共祖先](./LeetCode/236.%20二叉树的最近公共祖先.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) |  
+| 238 | [除自身以外数组的乘积](./LeetCode/238.%20除自身以外数组的乘积.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/product-of-array-except-self/) |  
+| 240 | [搜索二维矩阵 II](./LeetCode/240.%20搜索二维矩阵%20II.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) |  
+| 279 | [完全平方数](./LeetCode/279.%20完全平方数.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/perfect-squares/) |  
+| 280 | [移动零](./LeetCode/283.%20移动零.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/move-zeroes/) |  
+| 287 | [寻找重复数](./LeetCode/287.%20寻找重复数.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/find-the-duplicate-number/) | 
+| 300 | [最长上升子序列](./LeetCode/300.%20最长上升子序列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | 
 
 #### 剑指offer
 
