@@ -80,6 +80,26 @@
 | 280 | [移动零](./LeetCode/283.%20移动零.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/move-zeroes/) |  
 | 287 | [寻找重复数](./LeetCode/287.%20寻找重复数.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/find-the-duplicate-number/) | 
 | 300 | [最长上升子序列](./LeetCode/300.%20最长上升子序列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | 
+| 322 | [零钱兑换](./LeetCode/322.%20零钱兑换.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/coin-change/) | 
+| 337 | [打家劫舍III](./LeetCode/337.%20打家劫舍%20III.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/house-robber-iii/) | 
+| 338 | [比特位计数](./LeetCode/338.%20比特位计数.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/counting-bits/) | 
+| 347 | [前 K 个高频元素](./LeetCode/347.%20前%20K%20个高频元素.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/top-k-frequent-elements/) | 
+| 394 | [字符串解码](./LeetCode/394.%20字符串解码.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/decode-string/) | 
+| 406 | [根据身高重建队列](./LeetCode/406.%20根据身高重建队列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | 
+| 416 | [分割等和子集](./LeetCode/416.%20分割等和子集.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | 
+| 437 | [路径总和III](./LeetCode/437.%20路径总和%20III.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/path-sum-iii/) | 
+| 438 | [找到字符串中所有字母异位词](./LeetCode/438.%20找到字符串中所有字母异位词.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | 
+| 448 | [找到所有数组中消失的数字](./LeetCode/448.%20找到所有数组中消失的数字.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | 
+| 461 | [汉明距离](./LeetCode/461.%20汉明距离.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/hamming-distance/) | 
+| 494 | [目标和](./LeetCode/494.%20目标和.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/target-sum/) | 
+| 538 | [把二叉搜索树转换为累加树](./LeetCode/538.%20把二叉搜索树转换为累加树.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | 
+| 543 | [二叉树的直径](./LeetCode/543.%20二叉树的直径.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | 
+| 560 | [和为K的子数组](./LeetCode/560.%20和为K的子数组.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | 
+| 581 | [最短无序连续子数组](./LeetCode/581.%20最短无序连续子数组.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | 
+| 617 | [合并二叉树](./LeetCode/617.%20合并二叉树.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/merge-two-binary-trees/) | 
+| 647 | [回文子串](./LeetCode/647.%20回文子串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/palindromic-substrings/) |
+| 680 | [验证回文字符串Ⅱ](./LeetCode/680.%20验证回文字符串%20Ⅱ.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/valid-palindrome-ii/) | 
+| 739 | [每日温度](./LeetCode/739.%20每日温度.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/daily-temperatures/) | 
 
 #### 剑指offer
 
