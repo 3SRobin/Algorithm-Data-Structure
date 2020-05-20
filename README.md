@@ -14,25 +14,37 @@
 | # | 题目 | 难度 | 题目地址 |
 |:-:| :-: | :--: |  :--:  |
 | 1 | [两数之和](./LeetCode/1.%20两数之和.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/two-sum/) | 
+| 2 | [两数相加](./LeetCode/2.%20两数相加.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/add-two-numbers/) | 
 | 3 | [无重复字符的最长子串](./LeetCode/3.%20无重复字符的最长子串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| 
 | 4 | [寻找两个正序数组的中位数](./LeetCode/4.%20寻找两个正序数组的中位数.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)| 
 | 5 | [最长回文子串](./LeetCode/5.%20最长回文子串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/longest-palindromic-substring/)| 
+| 6 | [字形变换](./LeetCode/6.%20Z%20字形变换.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/zigzag-conversion/)| 
+| 7 | [整数反转](./LeetCode/7.%20整数反转.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/reverse-integer/) | 
+| 8 | [字符串转换整数 (atoi)](./LeetCode/8.%20字符串转换整数%20(atoi).cpp) | 普通 | [Address](https://leetcode-cn.com/problems/string-to-integer-atoi/)| 
 | 11 | [盛最多水的容器](./LeetCode/11.%20盛最多水的容器.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/container-with-most-water/)| 
+| 14 | [最长公共前缀](./LeetCode/14.%20最长公共前缀.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/longest-common-prefix/) | 
 | 15 | [三数之和](./LeetCode/15.%20三数之和.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/3sum/)| 
+| 16 | [最接近的三数之和](./LeetCode/16.%20最接近的三数之和.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/3sum-closest/)| 
 | 17 | [电话号码的字母组合](./LeetCode/17.%20电话号码的字母组合.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)| 
 | 19 | [删除链表的倒数第N个节点](./LeetCode/19.%20删除链表的倒数第N个节点.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)| 
 | 20 | [有效的括号](./LeetCode/20.%20有效的括号.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/valid-parentheses/)| 
 | 21 | [合并两个有序链表](./LeetCode/21.%20合并两个有序链表.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| 
 | 22 | [括号生成](./LeetCode/22.%20括号生成.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/generate-parentheses/)| 
 | 23 | [合并K个排序链表](./LeetCode/23.%20合并K个排序链表.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|
+| 24 | [两两交换链表中的节点](./LeetCode/24.%20两两交换链表中的节点.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|
 | 25 | [K个一组翻转链表](./LeetCode/25.%20K%20个一组翻转链表.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|
+| 28 | [实现 strStr()](./LeetCode/28.%20实现%20strStr().cpp) | 简单 | [Address](https://leetcode-cn.com/problems/implement-strstr/)|
 | 31 | [下一个排列](./LeetCode/31.%20下一个排列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/next-permutation/)|
 | 32 | [最长有效括号](./LeetCode/32.%20最长有效括号.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/longest-valid-parentheses/)|
 | 33 | [搜索旋转排序数组](./LeetCode/33.%20搜索旋转排序数组.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](./LeetCode/34.%20在排序数组中查找元素的第一个和最后一个位置.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|
 | 39 | [组合总和](./LeetCode/39.%20组合总和.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/combination-sum/)|
+| 40 | [组合总和 II](./LeetCode/40.%20组合总和%20II.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/combination-sum-ii/)|
 | 42 | [接雨水](./LeetCode/42.%20接雨水.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/trapping-rain-water/)|
+| 43 | [字符串相乘](./LeetCode/43.%20字符串相乘.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/multiply-strings/)|
+| 45 | [跳跃游戏 II](./LeetCode/45.%20跳跃游戏%20II.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/jump-game-ii/)|
 | 46 | [全排列](./LeetCode/46.%20全排列.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/permutations/)|
+| 47 | [全排列 II](./LeetCode/47.%20全排列%20II.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/permutations-ii/)|
 | 48 | [旋转图像](./LeetCode/48.%20旋转图像.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/rotate-image/)|
 | 49 | [字母异位词分组](./LeetCode/49.%20字母异位词分组.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/group-anagrams/)|
 | 50 | [Pow(x,n)](./LeetCode/50.%20Pow(x%2C%20n).cpp) | 普通 | [Address](https://leetcode-cn.com/problems/powx-n/) |
@@ -100,6 +112,7 @@
 | 647 | [回文子串](./LeetCode/647.%20回文子串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/palindromic-substrings/) |
 | 680 | [验证回文字符串Ⅱ](./LeetCode/680.%20验证回文字符串%20Ⅱ.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/valid-palindrome-ii/) | 
 | 739 | [每日温度](./LeetCode/739.%20每日温度.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/daily-temperatures/) | 
+| 1371 | [每个元音包含偶数次的最长子字符串](./LeetCode/1371.%20每个元音包含偶数次的最长子字符串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | 
 
 #### 剑指offer
 
