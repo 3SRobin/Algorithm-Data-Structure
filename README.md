@@ -56,6 +56,7 @@
 | 70 | [爬楼梯](./LeetCode/70.%20爬楼梯.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/climbing-stairs/)|
 | 72 | [编辑距离](./LeetCode/72.%20编辑距离.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/edit-distance/)|
 | 75 | [颜色分类](./LeetCode/75.%20颜色分类.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/sort-colors/)|
+| 76 | [最小覆盖子串](./LeetCode/76.%20最小覆盖子串.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/minimum-window-substring/)|
 | 78 | [子集](./LeetCode/78.%20子集.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/subsets/)|
 | 79 | [单词搜索](./LeetCode/79.%20单词搜索.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/word-search/)|
 | 94 | [二叉树的中序遍历](./LeetCode/94.%20二叉树的中序遍历.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) |
@@ -64,6 +65,7 @@
 | 102 | [二叉树的层序遍历](./LeetCode/102.%20二叉树的层序遍历.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |
 | 104 | [二叉树的最大深度](./LeetCode/104.%20二叉树的最大深度.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |
 | 105 | [从前序与中序遍历序列构造二叉树](./LeetCode/105.%20从前序与中序遍历序列构造二叉树.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |
+| 106 | [从中序与后序遍历序列构造二叉树](./LeetCode/106.%20从中序与后序遍历序列构造二叉树.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |
 | 114 | [二叉树展开为链表](./LeetCode/114.%20二叉树展开为链表.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) |
 | 121 | [买卖股票的最佳时机](./LeetCode/121.%20买卖股票的最佳时机.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |
 | 128 | [最长连续序列](./LeetCode/128.%20最长连续序列.cpp) | 困难 | [Address](https://leetcode-cn.com/problems/longest-consecutive-sequence/) |
@@ -112,6 +114,7 @@
 | 647 | [回文子串](./LeetCode/647.%20回文子串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/palindromic-substrings/) |
 | 680 | [验证回文字符串Ⅱ](./LeetCode/680.%20验证回文字符串%20Ⅱ.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/valid-palindrome-ii/) | 
 | 739 | [每日温度](./LeetCode/739.%20每日温度.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/daily-temperatures/) | 
+| 974 | [和可被 K 整除的子数组](./LeetCode/974.%20和可被%20K%20整除的子数组.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | 
 | 1371 | [每个元音包含偶数次的最长子字符串](./LeetCode/1371.%20每个元音包含偶数次的最长子字符串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | 
 
 #### 剑指offer
