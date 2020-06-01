@@ -116,6 +116,7 @@
 | 739 | [每日温度](./LeetCode/739.%20每日温度.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/daily-temperatures/) | 
 | 974 | [和可被 K 整除的子数组](./LeetCode/974.%20和可被%20K%20整除的子数组.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | 
 | 1371 | [每个元音包含偶数次的最长子字符串](./LeetCode/1371.%20每个元音包含偶数次的最长子字符串.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | 
+| 1431 | [拥有最多糖果的孩子](./LeetCode/1431.%20拥有最多糖果的孩子.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | 
 
 #### 剑指offer
 
