@@ -21,6 +21,7 @@
 | 6 | [字形变换](./LeetCode/6.%20Z%20字形变换.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/zigzag-conversion/)| 
 | 7 | [整数反转](./LeetCode/7.%20整数反转.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/reverse-integer/) | 
 | 8 | [字符串转换整数 (atoi)](./LeetCode/8.%20字符串转换整数%20(atoi).cpp) | 普通 | [Address](https://leetcode-cn.com/problems/string-to-integer-atoi/)| 
+| 9 | [回文数](./LeetCode/9.%20回文数.py) | 简单 | [Address](https://leetcode-cn.com/problems/palindrome-number/)| 
 | 11 | [盛最多水的容器](./LeetCode/11.%20盛最多水的容器.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/container-with-most-water/)| 
 | 14 | [最长公共前缀](./LeetCode/14.%20最长公共前缀.cpp) | 简单 | [Address](https://leetcode-cn.com/problems/longest-common-prefix/) | 
 | 15 | [三数之和](./LeetCode/15.%20三数之和.cpp) | 普通 | [Address](https://leetcode-cn.com/problems/3sum/)| 
